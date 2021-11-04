@@ -7,3 +7,5 @@ DxLibを使ってフライトゲームを作るために作ったもの
 * [Vector.h](https://github.com/ayaha401/DxLibFlightGame/wiki/Vector.h)
 * [Quaternion.h](https://github.com/ayaha401/DxLibFlightGame/wiki/Quaternion.h)
 
+# 向いてる方向に移動する方法
+* ForwardMove(製作中)
