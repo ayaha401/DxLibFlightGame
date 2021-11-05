@@ -12,3 +12,8 @@ DxLibを使ってフライトゲームを作るために作ったもの
 
 # ツール
 * [MapMakeEditor](https://github.com/ayaha401/DxLibFlightGame/wiki/MapMakeEditor)
+
+## ツール更新履歴
+
+### v1.0.0
+* 公開開始
